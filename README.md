@@ -1,16 +1,36 @@
-# commits_git_historial
+# GitHistorialFlutter
 
-A new Flutter project.
+## Descripción
+**GitHistorialFlutter** es una aplicación Flutter que permite visualizar el historial de commits de un repositorio público de GitHub. Utiliza la API de GitHub para obtener información sobre los commits y mostrarlos de manera amigable.
 
-## Getting Started
+## Características
+- Listado de commits de un repositorio de GitHub.
+- Posibilidad de seleccionar un repositorio desde la lista de repositorios del usuario.
+- Interfaz intuitiva y fácil de usar.
 
-This project is a starting point for a Flutter application.
+## Tecnologías Utilizadas
+- [Flutter](https://flutter.dev/) - Framework para desarrollo de aplicaciones móviles.
+- [Dart](https://dart.dev/) - Lenguaje de programación utilizado.
+- [GitHub API](https://docs.github.com/en/rest) - API para interactuar con GitHub.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clona el repositorio:
+    git clone https://github.com/JoaquinLazaro26/GitHistorialFlutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navega al directorio del proyecto:
+    cd GitHistorialFlutter
+
+3. Instala las dependencias:
+    flutter pub get
+
+5. Ejecuta la aplicación:
+    flutter run
+
+## Uso
+- Al abrir la aplicación, se mostrará el historial de commits del repositorio predeterminado GitHistorialFlutter.
+- Haz clic en el botón de búsqueda para seleccionar otro repositorio del usuario JoaquinLazaro26.
+- Los commits se mostrarán con información sobre el autor, el mensaje y la fecha.
+
+## Contacto
+- Para cualquier consulta o comentario, puedes contactarme en lazaro_alonso94@hotmail.com.
