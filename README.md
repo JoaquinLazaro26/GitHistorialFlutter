@@ -16,21 +16,25 @@
 ## Instalación
 
 1. Clona el repositorio:
+   ```bash
     git clone https://github.com/JoaquinLazaro26/GitHistorialFlutter.git
 
 2. Navega al directorio del proyecto:
+   ```bash
     cd GitHistorialFlutter
 
 3. Instala las dependencias:
+   ```bash
     flutter pub get
 
-5. Ejecuta la aplicación:
+4. Ejecuta la aplicación:
+    ```bash
     flutter run
 
 ## Uso
-- Al abrir la aplicación, se mostrará el historial de commits del repositorio predeterminado GitHistorialFlutter.
-- Haz clic en el botón de búsqueda para seleccionar otro repositorio del usuario JoaquinLazaro26.
-- Los commits se mostrarán con información sobre el autor, el mensaje y la fecha.
+- Al abrir la aplicación, se mostrará el historial de commits del repositorio predeterminado `GitHistorialFlutter`.
+- Haz clic en el botón de búsqueda para seleccionar otro repositorio del usuario `JoaquinLazaro26`.
+- Los `commits` se mostrarán con información sobre el autor, el mensaje y la fecha.
 
 ## Contacto
-- Para cualquier consulta o comentario, puedes contactarme en lazaro_alonso94@hotmail.com.
+- Para cualquier consulta o comentario, puedes contactarme en `lazaro_alonso94@hotmail.com`.
